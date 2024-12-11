@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">Android Developer</h3>
 
-- 👩🏻‍💻 I develop **Android** Apps.
+- 👩🏻‍💻 I develop and release **Android** Apps.
 
 - 🌱 I’m currently learning **Swift**
 
