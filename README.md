@@ -3,8 +3,6 @@
 
 - 👩🏻‍💻 I develop and release **Android** Apps.
 
-- 🌱 I’m currently learning **Swift**
-
 - 📫 How to reach me **ddenizsimsekk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
