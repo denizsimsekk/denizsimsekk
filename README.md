@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I develop and release **Android** Apps.
 
-- 📫 How to reach me **ddenizsimsekk@gmail.com**
+- 📫 How to reach me **ddenizsimsekk@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
